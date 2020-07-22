@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/minatofund
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://minatofund.github.io
+  * I am minatofund (https://keybase.io/minatofund) on keybase.
+  * I have a public key ASBQcpCjduSVHKgg_Cb0vEjJluBM_bY1e9nvzBFKQbsDVwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120507290a376e4951ca820fc26f4bc48c996e04cfdb6357bd9efcc114a41bb03570a",
+      "host": "keybase.io",
+      "kid": "0120507290a376e4951ca820fc26f4bc48c996e04cfdb6357bd9efcc114a41bb03570a",
+      "uid": "bb6f0da65b2ebb1a5b3a42d515084c19",
+      "username": "minatofund"
+    },
+    "merkle_root": {
+      "ctime": 1595424357,
+      "hash": "e98a62cc642bc2dfe3e944e996c006e7eef2495651c55b1d04957630a2a29fed2e7d0f82c4eb98f91db71bc55a12abf3f6823b19844b1c600e199098f9d1bad8",
+      "hash_meta": "bca8a5351b6872989fda174fcb1f44cfe4e42a0d9174385d95f6b796d4fb2e6c",
+      "seqno": 17045654
+    },
+    "service": {
+      "entropy": "DrPy4dAS5SxTD8TMdHKkHy4K",
+      "hostname": "minatofund.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.5.0"
+  },
+  "ctime": 1595424435,
+  "expire_in": 504576000,
+  "prev": "37b7c6ff2dbdb72313f9f1d71735bd2e4dc580f8f7f0be1f8fd5edf4ef55cba9",
+  "seqno": 8,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgUHKQo3bklRyoIPwm9LxIyZbgTP22NXvZ78wRSkG7A1cKp3BheWxvYWTESpcCCMQgN7fG/y29tyMT+fHXFzW9Lk3FgPj38L4fj9Xt9O9Vy6nEIKMXP1xzUlXBRyvtVozQV4DH3BuPrwJMLNVMukkDer6OAgHCo3NpZ8RAJpgaR/Ryl2JmxQb4TQzyRjOqUeRswtHQ0b81SdBUfXedV5ReNULYngAfHs+qHvl5ttaGShXcQyOhK80z/NCwB6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIN48TuVAD2JyOCseqsnJM/38+2IasNHWLGVxLwnjmQ+Jo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/minatofund
+
+==================================================================
